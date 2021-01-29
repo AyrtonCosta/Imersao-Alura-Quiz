@@ -1,43 +1,46 @@
 {
-    "bg": "https://miro.medium.com/max/2800/0*IcalSUfk4tBu2-1q.jpg",
-    "title": "Quiz da Terra Plana",
-    "description": "Esse quiz é para saber, a Terra é Plana ou Não",
-    "questions": [
-      {
-        "image": "https://miro.medium.com/max/2800/0*IcalSUfk4tBu2-1q.jpg",
-        "title": "Terra Plana",
-        "description": "É ou Não é",
-        "answer": 2,
-        "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
-        ]
-      },
-      {
-        "image": "https://miro.medium.com/max/2800/0*IcalSUfk4tBu2-1q.jpg",
-        "title": "A Terra é Plana ?",
-        "description": "Terra Plana",
-        "answer": 0,
-        "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
-        ]
-      }
-    ],
-    "external": [
-      ""
-    ],
-    "theme": {
-      "colors": {
-        "primary": "#0d47a1",
-        "secondary": "#29b6f6",
-        "mainBg": "#171B35",
-        "contrastText": "#FFFFFF",
-        "wrong": "#FF5722",
-        "success": "#4CAF50"
-      },
-      "borderRadius": "4px"
+  "bg": "https://img.elo7.com.br/product/zoom/1F86ED7/placa-decorativa-eu-a-patroa-e-as-criancas-2-30x20cm-placa-decorativa-eu-a-patroa-e-as-criancas-2.jpg",
+  "title": "Quiz Eu a Patroa e as Crianças",
+  "description": "Vamos ver se você é realemnte fã da série!",
+  "questions": [
+    {
+      "image": "https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/m/michael-kyle-eu-a-patroa-e-as-criancas-0917-1400x800.jpg",
+      "title": "Qual o nome da ex namorada de Michel?",
+      "description": "Essa é pra aquecer",
+      "answer": 0,
+      "alternatives": [
+        "Sharon",
+        "Aline",
+        "Hillary",
+        "Jay"
+      ]
+    },
+    {
+      "image": "https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/p/personagem-michael-kyle-0817-1400x800.jpg",
+      "title": "Quantas temporadas tem a série?",
+      "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+         "10 Temporadas",
+         "6 Temporadas",
+         "8 Temporadas",
+         "5 Temporadas"
+      ]
     }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#0d47a1",
+      "secondary": "#29b6f6",
+      "mainBg": "#171B35",
+      "contrastText": "#FFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
   }
+}
