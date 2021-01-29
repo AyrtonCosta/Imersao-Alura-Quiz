@@ -1,10 +1,10 @@
 {
   "bg": "https://img.elo7.com.br/product/zoom/1F86ED7/placa-decorativa-eu-a-patroa-e-as-criancas-2-30x20cm-placa-decorativa-eu-a-patroa-e-as-criancas-2.jpg",
-  "title": "Quiz Eu a Patroa e as Crianças",
-  "description": "Vamos ver se você é realemnte fã da série!",
+  "title": "Quiz - Eu a Patroa e as Crianças",
+  "description": "Vamos ver se você é realmente fã da série!",
   "questions": [
     {
-      "image": "https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/m/michael-kyle-eu-a-patroa-e-as-criancas-0917-1400x800.jpg",
+      "image": "https://img.wattpad.com/cbe391b190cf5d5dea6ba9c21329815549a2f664/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f76636b6f7a7934464d66587551773d3d2d3233323532343136302e313433633333633732623134326139632e676966",
       "title": "Qual o nome da ex namorada de Michel?",
       "description": "Essa é pra aquecer",
       "answer": 0,
@@ -16,17 +16,55 @@
       ]
     },
     {
-      "image": "https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/p/personagem-michael-kyle-0817-1400x800.jpg",
-      "title": "Quantas temporadas tem a série?",
+      "image": "https://37.media.tumblr.com/tumblr_lyjed1TPrj1qelvj7o2_250.gif",
+      "title": "Qual nome do namorado da Claire?",
       "description": "Faz tempo em haha",
       "answer": 1,
       "alternatives": [
-         "10 Temporadas",
-         "6 Temporadas",
+         "Brad",
+         "Tony",
+         "Franklin",
+         "Ayrton"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/f6f0f6ee4056a14efd7f86f09b8f8d85/tenor.gif?itemid=7679482",
+      "title": "Qual nome completo da Jay?",
+      "description": "vish, quero ver essa hein",
+      "answer": 2,
+      "alternatives": [
+         "Jay Marie Kyle",
+         "Amanda Kyle",
+         "Janet Marie Kyle",
+         "Vanessa Marie Kyle"
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/6f/92/25/6f922566db13a5dfda6f0c81246f5074.gif",
+      "title": "Qual nome do filho do Júnior?",
+      "description": "essa você não sabe",
+      "answer": 0,
+      "alternatives": [
+         "Michael Richard Kyle 3º",
+         "Junior Junior",
+         "Michael 3º",
+         "Filho do Júnior"
+      ]
+    },
+    {
+      "image": "https://25.media.tumblr.com/tumblr_mdjoepsNq11rw4veao5_400.gif",
+      "title": "Quantas temporadas tem a série?",
+      "description": "Essa nem eu sei",
+      "answer": 3,
+      "alternatives": [
          "8 Temporadas",
-         "5 Temporadas"
+         "5 Temporadas",
+         "12 Temporadas",
+         "6 Temporadas"
       ]
     }
+
+
   ],
   "external": [
     "https://aluraquiz-css.omariosouto.vercel.app/",
